@@ -80,3 +80,14 @@ Completed required courses for a masters in applied mathematics.
 ### 🎓 Western Norway University of Applied Sciences
 **B.Sc, Mechanical Engineering**  
 *2005 - 2008*
+
+## 📜 Licenses & Certifications
+
+### 🏦 TW3421x: An Introduction to Credit Risk Management
+**edX**  
+*Issued Mar 2019*  
+Credential ID: 6cb14906e0684766bc80c859c125d133
+
+### 🌐 Web Development
+**Udacity**  
+*Issued Jul 2012*
