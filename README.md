@@ -1,4 +1,12 @@
-# CV
+# Feda Curic
+**Principal Analyst IT | Scientific Computing**
+
+**Contact Information**
+- 📧 Email: feda.curic@gmail.com
+- 📞 Phone: 92081983 (Work)
+- 💼 LinkedIn: linkedin.com/in/feda-curic-80880422
+- 🌐 Blog: tingogtall.no
+- 📍 Location: Bergen, Vestland, Norway
 
 ## Work Experience
 
