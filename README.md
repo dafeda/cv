@@ -19,6 +19,7 @@ Developer in the scientific computing team working on ERT (Ensemble Based Reserv
 - History matching algorithms: https://github.com/equinor/iterative_ensemble_smoother
 - ERT: https://github.com/equinor/ert
 - Monte carlo analysis tool: https://github.com/equinor/semeio/tree/main/src/semeio/fmudesign
+- Data assimilation educational tool: https://github.com/equinor/dass
 
 ### 💻 Senior Consultant
 **Sonat AS** · Full-time  
