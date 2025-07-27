@@ -15,7 +15,8 @@
 *Apr 2023 - Present · 2 yrs 4 mos*  
 *Bergen, Vestland, Norway · Hybrid*
 
-Developer in the scientific computing team working on ERT (Ensemble Based Reservoir Tool), focusing on history matching algorithms. Developing tools for sensitivity analysis using Monte Carlo methods.
+Developing tools for monte-carlo based sensitivity analysis and history matching.
+
 - History matching algorithms: https://github.com/equinor/iterative_ensemble_smoother
 - ERT: https://github.com/equinor/ert
 - Monte carlo analysis tool: https://github.com/equinor/semeio/tree/main/src/semeio/fmudesign
