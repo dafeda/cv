@@ -5,7 +5,6 @@
 - 📧 Email: feda.curic@gmail.com
 - 📞 Phone: 92081983 (Work)
 - 💼 LinkedIn: linkedin.com/in/feda-curic-80880422
-- 🌐 Blog: tingogtall.no
 - 📍 Location: Bergen, Vestland, Norway
 
 ## Work Experience
@@ -14,6 +13,12 @@
 **Equinor** · Full-time  
 *Apr 2023 - Present · 2 yrs 4 mos*  
 *Bergen, Vestland, Norway · Hybrid*
+
+From September 2025:
+
+Developing tools for generative AI.
+
+- EquinorChat - Euinor's own secure chat interface for sensitive data.
 
 Developing tools for monte-carlo based sensitivity analysis and history matching.
 
